@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3551d0e-8758-4a52-a787-9bbf0776e89b" name="Changes" comment="shell script" />
+    <list default="true" id="b3551d0e-8758-4a52-a787-9bbf0776e89b" name="Changes" comment="shell script">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x01-python-if_else_loops_functions/13-insert_number.c" beforeDir="false" afterPath="$PROJECT_DIR$/0x01-python-if_else_loops_functions/13-insert_number.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x01-python-if_else_loops_functions/2-print_alphabet.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x01-python-if_else_loops_functions/2-print_alphabet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x01-python-if_else_loops_functions/lists.h" beforeDir="false" afterPath="$PROJECT_DIR$/0x01-python-if_else_loops_functions/lists.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +42,7 @@
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x00-python-hello_world" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x01-python-if_else_loops_functions" />
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x00-python-hello_world" />
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming" />
     </key>
