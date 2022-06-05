@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b3551d0e-8758-4a52-a787-9bbf0776e89b" name="Changes" comment="shell script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02-python-import_modules/0-add.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-python-import_modules/0-add.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/San/OneDrive/Desktop/holbertonschool-low_level_programming-master",
+    "last_opened_file_path": "C:/Users/San/Downloads/alx-higher_level_programming-master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
