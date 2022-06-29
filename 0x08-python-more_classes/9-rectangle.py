@@ -1,5 +1,8 @@
 #!/usr/bin/python3
+
 """ Comparing rectangles"""
+
+
 class Rectangle:
     """define class Rectangle"""
     number_of_instances=0
