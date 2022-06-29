@@ -1,16 +1,14 @@
 #!/usr/bin/python3
 
 """
-function that adds two integers
+This module contains the add_integer function
 """
 
 
 def add_integer(a, b=98):
     """
-    return sum of a and b. print an error message if a and b aren't integers or floats
-    :param a:
-    :param b:
-    :return:
+    Return sum of a and b. Prints an error
+    message if a and b are not int or floats
     """
     if type(a) == float:
         a = int(a)
