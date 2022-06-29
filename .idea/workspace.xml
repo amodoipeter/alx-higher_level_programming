@@ -5,13 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3551d0e-8758-4a52-a787-9bbf0776e89b" name="Changes" comment="shell script">
+      <change beforePath="$PROJECT_DIR$/.idea/alx-higher_level_programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alx-higher_level_programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x04-python-more_data_structures/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x04-python-more_data_structures/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-python-test_driven_development/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x08-python-more_classes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x08-python-more_classes/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,22 +45,26 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/San/PycharmProjects/alx-higher_level_programming/0x04-python-more_data_structures",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/San/PycharmProjects/alx-higher_level_programming/0x07-python-test_driven_development",
+    "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x04-python-more_data_structures" />
-      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x03-python-data_structures" />
-      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x00-python-hello_world" />
+      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x07-python-test_driven_development" />
+      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x07-python-test_driven_development\tests" />
+      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x08-python-more_classes" />
+      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x06-python-classes" />
+      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x05-python-exceptions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x07-python-test_driven_development\tests" />
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x04-python-more_data_structures" />
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x02-python-import_modules" />
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x01-python-if_else_loops_functions" />
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x00-python-hello_world" />
-      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
