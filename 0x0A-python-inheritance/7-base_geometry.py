@@ -1,20 +1,19 @@
 #!/usr/bin/python3
-"""create empty class BaseGeometry
+"""
+Class Called BaseGeometry
 """
 
 
-class BaseGeometry():
-    """ Task 6: Class BaseGeometry with Exception
-    """
+class BaseGeometry:
+    """This is a class called BaseGeometry"""
+
     def area(self):
-        """not implemented
-        """
+        """This Function Raise an Error"""
         raise Exception("area() is not implemented")
 
     def integer_validator(self, name, value):
-        """Task 7: public instance validate value
-        """
+        """Check if Value is a positive Number"""
         if type(value) is not int:
-            raise TypeError("{:s} must be an integer".format(name))
+            raise TypeError('{} must be an integer'.format(name))
         if value <= 0:
-            raise ValueError("{:s} must be greater than 0".format(name))
+            raise ValueError('{} must be greater than 0'.format(name))
