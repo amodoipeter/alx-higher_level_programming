@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3551d0e-8758-4a52-a787-9bbf0776e89b" name="Changes" comment="shell script" />
+    <list default="true" id="b3551d0e-8758-4a52-a787-9bbf0776e89b" name="Changes" comment="shell script">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,18 +42,19 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/San/PycharmProjects/alx-higher_level_programming/0x07-python-test_driven_development",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "C:/Users/San/PycharmProjects/alx-higher_level_programming",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming" />
+      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x0A-python-inheritance" />
+      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x0A-python-inheritance\tests" />
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x07-python-test_driven_development" />
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x07-python-test_driven_development\tests" />
-      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x08-python-more_classes" />
-      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x06-python-classes" />
-      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x05-python-exceptions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x07-python-test_driven_development\tests" />
@@ -60,6 +63,34 @@
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x01-python-if_else_loops_functions" />
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x00-python-hello_world" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="2-is_same_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alx-higher_level_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0x0A-python-inheritance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x0A-python-inheritance/2-is_same_class.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2-is_same_class" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
