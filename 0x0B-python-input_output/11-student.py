@@ -9,7 +9,6 @@ class Student:
     first_name, last_name, and age.
     Public method to_json()
     """
-
     def __init__(self, first_name, last_name, age):
         """Initializes the instance of class, Student"""
         self.first_name = first_name
@@ -19,8 +18,6 @@ class Student:
     def to_json(self):
         """Gets the dictionary representation of a Student
         instance
-
         Return: the dictionary rep of the instance
         """
-
         return self.__dict__

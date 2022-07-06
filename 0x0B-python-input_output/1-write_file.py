@@ -6,7 +6,7 @@ Function that writes a string in a text file
 
 def write_file(filename="", text=""):
     """Writes text in filename with Args:
-    - filenmae: name of the file
+    - filename: name of the file
     - text: the string to write in the file
 
     Returns: the number of characters written

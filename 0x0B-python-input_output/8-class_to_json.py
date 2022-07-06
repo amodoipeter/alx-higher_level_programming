@@ -7,7 +7,7 @@ A function that returns the dictionary description with simple data structure
 
 
 def class_to_json(obj):
-    """Creates a dictionary decription of object with Args:
+    """Creates a dictionary description of object with Args:
     - obj: the object to serialize
     - Return: the dictionary description of object
     """

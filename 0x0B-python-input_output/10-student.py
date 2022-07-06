@@ -5,7 +5,7 @@ Creation of a Student class.
 
 
 class Student:
-    """Class that defines a student with publc attributes:
+    """Class that defines a student with public attributes:
     first_name, last_name, and age.
     Public method to_json()
     """
