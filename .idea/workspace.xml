@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3551d0e-8758-4a52-a787-9bbf0776e89b" name="Changes" comment="shell script" />
+    <list default="true" id="b3551d0e-8758-4a52-a787-9bbf0776e89b" name="Changes" comment="shell script">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-python-input_output/13-student.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-python-input_output/14-pascal_triangle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0B-python-input_output/7-add_item.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-python-input_output/7-add_item.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,18 +46,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/San/PycharmProjects/alx-higher_level_programming",
+    "last_opened_file_path": "C:/Users/San/PycharmProjects/alx-higher_level_programming/0x0B-python-input_output",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x0B-python-input_output" />
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming" />
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x0A-python-inheritance" />
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x0A-python-inheritance\tests" />
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x07-python-test_driven_development" />
-      <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x07-python-test_driven_development\tests" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x07-python-test_driven_development\tests" />
