@@ -1,4 +1,4 @@
-## The following project covers:
+## Python Objects
 
 # Learning Objectives:
 - What is an object
@@ -14,11 +14,3 @@
 - What are the built-in mutable types
 - What are the built-in immutable types
 - How does Python pass variables to functions
-
-# Requirements
-
-## .txt Answer Files
-
-- Only one line
-- No Shebang
-- All files should end with a new line
