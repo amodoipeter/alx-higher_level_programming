@@ -24,7 +24,7 @@ class Rectangle(Base):
 
     @width.setter
     def width(self, value):
-        """Task 3: add TypeError and ValueError execption"""
+        """Task 3: add TypeError and ValueError exception"""
         if type(value) != int:
             raise TypeError("width must be an integer")
         if value <= 0:

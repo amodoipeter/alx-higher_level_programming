@@ -1,5 +1,5 @@
-#!/usr/bin/bash/python3
-"""test base file"""
+#!/usr/bin/python3
+"""Test Base Class"""
 import unittest
 from models.base import Base
 from models.square import Square
@@ -9,14 +9,14 @@ from models.rectangle import Rectangle
 
 
 class TestBaseClassCreation(unittest.TestCase):
-    """tests for base instantiation"""
+    """Test class for Base class instantiation tests"""
 
-
-def test_pep8_conformance_base(self):
-    """test to comply with pep8"""
-    pep8style=pep8.StyleGuide(quiet=True)
-    result=pep8style.check_files([models/base.py])
-    self.assertEqual(result.tatal_errors, 0, "Found code style errors, (and warnings).")
+    def test_pep8_conformance_base(self):
+        """Test that we conform to PEP8."""
+        pep8style = pep8.StyleGuide(quiet=True)
+        result = pep8style.check_files(['models/base.py'])
+        self.assertEqual(result.total_errors, 0,
+                         "Found code style errors (and warnings).")
 
     def test_id_positive(self):
         bo = Base(23)

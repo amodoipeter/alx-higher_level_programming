@@ -6,9 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="b3551d0e-8758-4a52-a787-9bbf0776e89b" name="Changes" comment="shell script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0B-python-input_output/13-student.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0B-python-input_output/14-pascal_triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x0B-python-input_output/7-add_item.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0B-python-input_output/7-add_item.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/models/rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/models/rectangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/models/square.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/models/square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/tests/test_models/test_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/tests/test_models/test_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x0C-python-almost_a_circle/tests/test_models/test_square.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x0C-python-almost_a_circle/tests/test_models/test_square.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "C:/Users/San/PycharmProjects/alx-higher_level_programming/0x0B-python-input_output",
+    "last_opened_file_path": "C:/Users/San/PycharmProjects/alx-higher_level_programming/0x0C-python-almost_a_circle",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -67,20 +69,48 @@
       <recent name="C:\Users\San\PycharmProjects\alx-higher_level_programming\0x00-python-hello_world" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="2-is_same_class" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.0x0C-python-almost_a_circle">
+    <configuration name="0x0C-python-almost_a_circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="alx-higher_level_programming" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="software.aws.toolkits.jetbrains.core.execution.PythonAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x0C-python-almost_a_circle" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="alx-higher_level_programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0x0A-python-inheritance" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="C:\Users\San\PycharmProjects\alx-higher_level_programming\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x0A-python-inheritance/2-is_same_class.py" />
+      <EXTENSION ID="software.aws.toolkits.jetbrains.core.execution.PythonAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </EXTENSION>
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -89,9 +119,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.0x0C-python-almost_a_circle" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2-is_same_class" />
+        <item itemvalue="Python.0x0C-python-almost_a_circle" />
       </list>
     </recent_temporary>
   </component>

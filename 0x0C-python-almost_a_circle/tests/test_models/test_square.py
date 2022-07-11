@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-"""Test Square"""
+"""Tests for Square"""
 import unittest
-
 import pep8
 from models.base import Base
 from models.square import Square
