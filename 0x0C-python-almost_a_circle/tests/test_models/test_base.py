@@ -1,12 +1,11 @@
 #!/usr/bin/python3
 """Test Base"""
-import os
 import unittest
-
-import pep8
-from models.base import Square
 from models.base import Base
-from models.base import Rectangle
+from models.square import Square
+import pep8
+import os
+from models.rectangle import Rectangle
 
 
 class TestBaseClassCreation(unittest.TestCase):
@@ -91,20 +90,20 @@ class TestBaseClassCreation(unittest.TestCase):
         self.assertEqual(sq_output, [])
         er = "load_from_file() takes 1 positional argument but 2 were given"
         with self.assertRaises(TypeError) as e:
-            Rectangle.load_from_file()
+            list_rectangles_output = Rectangle.load_from_file("str")
         self.assertEqual(er, str(e.exception))
 
     def test_create(self):
         """ Test create functionality """
         with self.assertRaises(TypeError) as e:
-            Rectangle.create("str")
+            err = Rectangle.create("str")
         self.assertEqual(
             "create() takes 1 positional argument but 2 were given", str(
                 e.exception))
 
     def test_dictionary(self):
         """Comment"""
-        re1 = Rectangle()
+        re1 = Rectangle(10, 7, 2, 8, 70)
         dictionary = re1.to_dictionary()
         json_dictionary = Base.to_json_string([dictionary])
         self.assertEqual(type(json_dictionary), str)

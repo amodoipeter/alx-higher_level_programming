@@ -10,7 +10,6 @@ class Rectangle(Base):
     def __init__(self, width, height, x=0, y=0, id=None):
         """Task 2: initialize rectangle"""
 
-        self.id = None
         """Task 2: private instance attributes"""
         self.width = width
         self.height = height
@@ -79,10 +78,10 @@ class Rectangle(Base):
             print("")
             return
 
-        [print("") for _ in range(self.y)]
+        [print("") for y in range(self.y)]
         for h in range(self.height):
-            [print(" ", end="") for _ in range(self.x)]
-            [print("#", end="") for _ in range(self.width)]
+            [print(" ", end="") for x in range(self.x)]
+            [print("#", end="") for w in range(self.width)]
             print("")
 
     def __str__(self):

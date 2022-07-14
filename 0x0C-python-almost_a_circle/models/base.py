@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """define a base model class"""
-import csv
 import json
+import csv
 
 
 class Base:
@@ -48,7 +48,7 @@ class Base:
         """Task 18: return class instance from a dictionary of attribute"""
         if dictionary and dictionary != {}:
             if cls.__name__ == "Rectangle":
-                new = cls(1)
+                new = cls(1, 1)
             else:
                 new = cls(1)
             new.update(**dictionary)
@@ -98,6 +98,3 @@ class Base:
                 return [cls.create(**d) for d in list_dicts]
         except IOError:
             return []
-
-    def update(self, param):
-        pass
