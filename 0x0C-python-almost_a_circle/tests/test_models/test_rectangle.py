@@ -3,7 +3,7 @@
 import unittest
 import pep8
 from models.base import Base
-from models.rectangle import Rectangle
+from models.base import Rectangle
 
 
 class Testrectangle(unittest.TestCase):
@@ -21,9 +21,9 @@ class Testrectangle(unittest.TestCase):
 
     def test_parameters(self):
         """ """
-        r1 = Rectangle(10, 2)
-        r2 = Rectangle(2, 10)
-        r3 = Rectangle(10, 2, 0, 0, 12)
+        r1 = Rectangle()
+        r2 = Rectangle()
+        r3 = Rectangle()
         self.assertEqual(r1.id, 4)
         self.assertEqual(r1.width, 10)
         self.assertEqual(r1.height, 2)
@@ -41,60 +41,60 @@ class Testrectangle(unittest.TestCase):
         self.assertEqual(r3.x, 0)
         self.assertEqual(r3.y, 0)
         with self.assertRaises(TypeError):
-            r4 = Rectangle()
+            Rectangle()
 
     def test_string(self):
         with self.assertRaises(TypeError):
-            R1 = Rectangle(1.01, 3)
+            Rectangle()
         with self.assertRaises(TypeError):
-            R1 = Rectangle(1.01, 3)
+            Rectangle()
 
     def test_type_param(self):
         with self.assertRaises(TypeError):
-            R1 = Rectangle(1.01, 3)
+            Rectangle()
             raise TypeError()
         with self.assertRaises(ValueError):
-            R2 = Rectangle(-234234242, 45)
+            Rectangle()
             raise ValueError()
         with self.assertRaises(TypeError):
-            R3 = Rectangle("", 4)
+            Rectangle()
             raise TypeError()
         with self.assertRaises(TypeError):
-            R4 = Rectangle(True, 4)
+            Rectangle()
             raise TypeError()
         with self.assertRaises(TypeError):
-            H1 = Rectangle(5, 1.76)
+            Rectangle()
             raise TypeError()
         with self.assertRaises(TypeError):
-            H2 = Rectangle(5, "Hello")
+            Rectangle()
             raise TypeError()
         with self.assertRaises(TypeError):
-            H3 = Rectangle(5, False)
+            Rectangle()
             raise TypeError()
         with self.assertRaises(ValueError):
-            H1 = Rectangle(5, -4798576398576)
+            Rectangle()
             raise ValueError
         with self.assertRaises(TypeError):
-            H1 = Rectangle(5, 1, 1.50)
+            Rectangle()
             raise TypeError()
         with self.assertRaises(TypeError):
-            H2 = Rectangle(5, 6, "test")
+            Rectangle()
             raise TypeError()
         with self.assertRaises(TypeError):
-            H3 = Rectangle(5, 7, False)
+            Rectangle()
             raise TypeError()
         with self.assertRaises(ValueError):
-            H1 = Rectangle(5, 7, -4798576398576)
+            Rectangle()
             raise ValueError()
         with self.assertRaises(TypeError):
-            H1 = Rectangle(5, 1, 1, 1.53)
+            Rectangle()
             raise TypeError()
         with self.assertRaises(TypeError):
-            H2 = Rectangle(5, 6, 5, "test")
+            Rectangle()
             raise TypeError()
         with self.assertRaises(TypeError):
-            H3 = Rectangle(5, 7, 7, False)
+            Rectangle()
             raise TypeError()
         with self.assertRaises(ValueError):
-            H1 = Rectangle(5, 9, 5, -4798576398576)
+            Rectangle()
             raise ValueError()

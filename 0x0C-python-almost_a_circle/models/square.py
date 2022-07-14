@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """Define square class"""
-from models.rectangle import Rectangle
+from models.base import Rectangle
 
 
 class Square(Rectangle):
@@ -8,7 +8,11 @@ class Square(Rectangle):
 
     def __init__(self, size, x=0, y=0, id=None):
         """Task 10: initialize new square Task 11: add getter/setter"""
-        super().__init__(size, size, x, y, id)
+        super().__init__()
+        self.id = id
+        self.y = y
+        self.x = x
+        self.size = size
 
     @property
     def size(self):
